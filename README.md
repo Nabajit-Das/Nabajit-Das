@@ -4,7 +4,7 @@
 - 📫 Reach me at nabajitdas2005@gmail.com
 - 😄 Pronouns: He/him-->
 # 💫 About Me:
-👋 Hi, I’m @Nabajit-Das<br>👀 I’m interested in Competitive Programming and Backend Development<br>🌱 I’m currently learning NodeJS, MongoDB<br>📫 Reach me at nabajitdas2005@gmail.com<br>😄 Pronouns: He/him
+👋 Hi, I’m @Nabajit-Das<br>👀 I’m interested in Competitive Programming and Backend Development<br>🌱 I’m currently learning NodeJS, MongoDB<br>📫 Reach me at nabajitdas.work@gmail.com<br>😄 Pronouns: He/him
 
 
 ## 🌐 Socials:
